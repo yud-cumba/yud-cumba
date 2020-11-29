@@ -1,4 +1,4 @@
-### Hi there I am Yuditd Cumba but you can call me Yud👋 I'm mathematician and front-end developer with some knowledgments in back-end development, web scrapping and machine learning
+### Hi there! I am Yuditd Cumba, but you can call me Yud.👋  I'm mathematician and front-end developer with some knowledgments in back-end development, web scrapping and machine learning. WELCOME TO MY GITHUB 👯 👯 
 
 <p align="center">
   <img src="https://github.com/yud-cumba/yud-cumba/blob/main/dino.gif" width="900" height="300">
