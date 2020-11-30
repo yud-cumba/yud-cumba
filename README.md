@@ -8,7 +8,7 @@
 * 🌱 I’m currently learning machine learning and backend development and i'm improving to be a better frontend developer
 * 👯 I’m looking to collaborate on a lot of amazing projects
 * 💬 Ask me about maths...only if you want 
-* 📫 How to reach me: yudith.cumba@gmail.com or you can visit ![my linkedin](https://www.linkedin.com/in/yuditd-cumba-29459018b/)
+* 📫 How to reach me: yudith.cumba@gmail.com or you can visit my linkedin --> https://www.linkedin.com/in/yuditd-cumba-29459018b/
 
 <div align="center">
 
