@@ -1,7 +1,7 @@
 ### Hi there! I am Yuditd Cumba, but you can call me Yud.👋  I'm mathematician and front-end developer with some knowledgments in back-end development, web scrapping and machine learning. WELCOME TO MY GITHUB 👯 👯 
 
 <p align="center">
-  <img src="https://img.unocero.com/2018/09/5jWcXif.gif" width="900" height="300">
+  <img src="https://www.actualidadgadget.com/wp-content/uploads/2018/02/t-rex-gif.gif" width="900" height="400">
 </p>
 
 * 🔭 I’m currently working on @Konecta-Peru
