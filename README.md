@@ -4,8 +4,8 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+    <h4 align="center">"<em></em>"
+      <span align="center"></span>
     </h4>
 </span>
 
@@ -18,6 +18,7 @@
     <li> 👯 I’m looking to collaborate on a lot of amazing projects</li>
     <li> 🔭 💬 Ask me about maths...only if you want</li>
   </ul>
+  ![Welcome to my profile](https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png?raw=true)
 
 <!-- CONNECTION -->
 <hr>      
