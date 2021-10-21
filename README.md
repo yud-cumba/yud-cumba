@@ -18,8 +18,7 @@
     <li> 👯 I’m looking to collaborate on a lot of amazing projects</li>
     <li> 🔭 💬 Ask me about maths...only if you want</li>
   </ul>
-  ![Welcome to my profile](https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png?raw=true)
-
+<img align="center" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="40" width="40" />
 <!-- CONNECTION -->
 <hr>      
 <h3 align="center">Connect with me:</h3>
