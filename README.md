@@ -23,16 +23,16 @@
 <hr>      
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
-  <a href="https://instagram.com/josue_rojasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yuditd-cumba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yud.cumba" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/yud.cumba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yud.cumba" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/yud.cumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yud.cumba" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
