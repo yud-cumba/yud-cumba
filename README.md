@@ -18,7 +18,7 @@
     <li> 👯 I’m looking to collaborate on a lot of amazing projects</li>
     <li> 🔭 💬 Ask me about maths...only if you want</li>
   </ul>
-<img align="center" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="40" width="40" />
+<img align="right" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="200" width="240" />
 <!-- CONNECTION -->
 <hr>      
 <h3 align="center">Connect with me:</h3>
@@ -80,14 +80,12 @@
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
-<p>
   <h3 align="center">Stats:</h3>
-<p>
-    <a align="left">
-      <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=yud-cumba&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="yud-cumba" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yud-cumba&show_icons=true&theme=blue-green&locale=en" alt="yud-cumba" /></p></a>  
-  </p>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yud-cumba&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yud-cumba&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 </div>
 <hr>
