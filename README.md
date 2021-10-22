@@ -15,8 +15,10 @@ I love to code, create things, solve problems and take on challenges</em>"
 <span align="left">
   <br>
   <ul>
-    <li> 🔭  I’m currently working on @Konecta-Peru</li>
-   <li> 🌱  I’m currently learning machine learning and backend development and i'm improving to be a better frontend and mobile developer</strong></li>
+     <li> 👋🏻 Hiya, I’m <a href="https://github.com/yud-cumba">Yuditd Cumba</a> ✌🏻  </li> 
+    <li> 🖥 I’m currently working in @Konecta-Peru</li>
+     <li> 🔭  I’m a developer who works with frontend, mobile and backend skills</li>
+   <li> 🌱  I’m interesting in machine learning and backend development and i'm improving to be a better frontend and mobile developer</strong></li>
    <li> 👯 I’m looking to collaborate on a lot of amazing projects</li>
    <li> 💬 Ask me about maths...only if you want</li>
   </ul>
@@ -51,6 +53,7 @@ I love to code, create things, solve problems and take on challenges</em>"
    <a href="https://mui.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="c" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/hrugved06.md" alt="python" width="40" height="40"/> </a>
   </a><a href="https://dart.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://flutter.dev/?gclid=CjwKCAjwn8SLBhAyEiwAHNTJbWwkPlx79tDSzWfOrldZPTaw7xolyB6u-Mj7nAY206AcAKRozf026BoC1pgQAvD_BwE&gclsrc=aw.ds/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="tailwind" width="40" height="40"/>   </a>   
