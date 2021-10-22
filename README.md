@@ -31,7 +31,7 @@ I love to code, create things, solve problems and take on challenges</em>"
   <a href="https://www.linkedin.com/in/yuditd-cumba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yud.cumba" height="30" width="40" /></a>
   <a href="https://web.facebook.com/yud.cumba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yud.cumba" height="30" width="40" /></a>
   <a href="https://www.instagram.com/yud.cumba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yud.cumba" height="30" width="40" /></a>
-   <a href="mailto:yudith.cumba@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="yud.cumba" height="28" width="30" /></a>
+   <a href="mailto:yudith.cumba@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="yud.cumba" height="28" width="35" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
