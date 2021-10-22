@@ -7,13 +7,14 @@
     <h3 align="center">"<em>
 I love to code, create things, solve problems and take on challenges</em>"
     </h3>
-  <img align="right" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="25%" width="25%" />
 </span>
 
 <!-- ABOUT YOU -->
 <hr>
+  <img align="right" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="25%" width="25%" />
+    <br>
 <span align="left">
-  <br>
+   
   <ul>
      <li> 👋🏻 Hiya, I’m <a href="https://github.com/yud-cumba">Yuditd Cumba</a> ✌🏻  </li> 
     <li> 🖥 I’m currently working in @Konecta-Peru</li>
@@ -40,7 +41,7 @@ I love to code, create things, solve problems and take on challenges</em>"
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <img align="left" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo4.png" alt="yud.cumba" height="25%" width="25%" />
-
+<br>
 <br>
 <br>
 <p align="center">
@@ -98,8 +99,9 @@ I love to code, create things, solve problems and take on challenges</em>"
 <!--    <img align="right" src="https://github.com/yud-cumba/yud-cumba/blob/main/yo2.png" alt="yud.cumba" height="200" width="240" /> -->
 <p align="center">
 <a href="https://github.com/yud-cumba">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yud-cumba&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yud-cumba&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yud-cumba&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
 </a>
 </p>
 </div>
