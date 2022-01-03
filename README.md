@@ -17,7 +17,7 @@ I love to code, create things, solve problems and take on challenges</em>"
    
   <ul>
      <li> 👋🏻 Hiya, I’m <a href="https://github.com/yud-cumba">Yuditd Cumba</a> ✌🏻  </li> 
-    <li> 🖥 I’m currently working in @Konecta-Peru</li>
+    <li> 🖥 I’m currently working in @Globant</li>
      <li> 🔭  I’m a developer who works with frontend, mobile and backend skills</li>
    <li> 🌱  I’m interesting in machine learning and backend development and i'm improving to be a better frontend and mobile developer</strong></li>
    <li> 👯 I’m looking to collaborate on a lot of amazing projects</li>
